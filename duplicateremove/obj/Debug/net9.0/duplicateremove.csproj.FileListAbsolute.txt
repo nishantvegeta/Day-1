@@ -1,0 +1,14 @@
+/Users/nishantkumpakha/Documents/day1/duplicateremove/bin/Debug/net9.0/duplicateremove
+/Users/nishantkumpakha/Documents/day1/duplicateremove/bin/Debug/net9.0/duplicateremove.deps.json
+/Users/nishantkumpakha/Documents/day1/duplicateremove/bin/Debug/net9.0/duplicateremove.runtimeconfig.json
+/Users/nishantkumpakha/Documents/day1/duplicateremove/bin/Debug/net9.0/duplicateremove.dll
+/Users/nishantkumpakha/Documents/day1/duplicateremove/bin/Debug/net9.0/duplicateremove.pdb
+/Users/nishantkumpakha/Documents/day1/duplicateremove/obj/Debug/net9.0/duplicateremove.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nishantkumpakha/Documents/day1/duplicateremove/obj/Debug/net9.0/duplicateremove.AssemblyInfoInputs.cache
+/Users/nishantkumpakha/Documents/day1/duplicateremove/obj/Debug/net9.0/duplicateremove.AssemblyInfo.cs
+/Users/nishantkumpakha/Documents/day1/duplicateremove/obj/Debug/net9.0/duplicateremove.csproj.CoreCompileInputs.cache
+/Users/nishantkumpakha/Documents/day1/duplicateremove/obj/Debug/net9.0/duplicateremove.dll
+/Users/nishantkumpakha/Documents/day1/duplicateremove/obj/Debug/net9.0/refint/duplicateremove.dll
+/Users/nishantkumpakha/Documents/day1/duplicateremove/obj/Debug/net9.0/duplicateremove.pdb
+/Users/nishantkumpakha/Documents/day1/duplicateremove/obj/Debug/net9.0/duplicateremove.genruntimeconfig.cache
+/Users/nishantkumpakha/Documents/day1/duplicateremove/obj/Debug/net9.0/ref/duplicateremove.dll

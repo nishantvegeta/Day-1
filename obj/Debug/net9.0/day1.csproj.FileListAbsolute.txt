@@ -1,0 +1,14 @@
+/Users/nishantkumpakha/Documents/day1/bin/Debug/net9.0/day1
+/Users/nishantkumpakha/Documents/day1/bin/Debug/net9.0/day1.deps.json
+/Users/nishantkumpakha/Documents/day1/bin/Debug/net9.0/day1.runtimeconfig.json
+/Users/nishantkumpakha/Documents/day1/bin/Debug/net9.0/day1.dll
+/Users/nishantkumpakha/Documents/day1/bin/Debug/net9.0/day1.pdb
+/Users/nishantkumpakha/Documents/day1/obj/Debug/net9.0/day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nishantkumpakha/Documents/day1/obj/Debug/net9.0/day1.AssemblyInfoInputs.cache
+/Users/nishantkumpakha/Documents/day1/obj/Debug/net9.0/day1.AssemblyInfo.cs
+/Users/nishantkumpakha/Documents/day1/obj/Debug/net9.0/day1.csproj.CoreCompileInputs.cache
+/Users/nishantkumpakha/Documents/day1/obj/Debug/net9.0/day1.dll
+/Users/nishantkumpakha/Documents/day1/obj/Debug/net9.0/refint/day1.dll
+/Users/nishantkumpakha/Documents/day1/obj/Debug/net9.0/day1.pdb
+/Users/nishantkumpakha/Documents/day1/obj/Debug/net9.0/day1.genruntimeconfig.cache
+/Users/nishantkumpakha/Documents/day1/obj/Debug/net9.0/ref/day1.dll
