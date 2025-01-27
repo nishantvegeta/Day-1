@@ -1,0 +1,15 @@
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/persongender.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/persongender.AssemblyInfoInputs.cache
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/persongender.AssemblyInfo.cs
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/persongender.csproj.CoreCompileInputs.cache
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/persongender.sourcelink.json
+/Users/nishantkumpakha/Documents/day1/persongender/bin/Debug/net9.0/persongender
+/Users/nishantkumpakha/Documents/day1/persongender/bin/Debug/net9.0/persongender.deps.json
+/Users/nishantkumpakha/Documents/day1/persongender/bin/Debug/net9.0/persongender.runtimeconfig.json
+/Users/nishantkumpakha/Documents/day1/persongender/bin/Debug/net9.0/persongender.dll
+/Users/nishantkumpakha/Documents/day1/persongender/bin/Debug/net9.0/persongender.pdb
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/persongender.dll
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/refint/persongender.dll
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/persongender.pdb
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/persongender.genruntimeconfig.cache
+/Users/nishantkumpakha/Documents/day1/persongender/obj/Debug/net9.0/ref/persongender.dll
