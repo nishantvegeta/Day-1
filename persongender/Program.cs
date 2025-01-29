@@ -12,16 +12,18 @@ public class Program
 {
     public static void Distinguish(List<Person> personList)
     {
+        const string Male = "Male";
+        const string Female = "Female";
         List<Person> maleList = new List<Person>();
         List<Person> femaleList = new List<Person>();
 
         foreach (var person in personList)
         {
-            if (person.Gender == "Male")
+            if (person.Gender == Male)
             {
                 maleList.Add(person);
             }
-            else if (person.Gender == "Female")
+            else if (person.Gender == Female)
             {
                 femaleList.Add(person);
             }
